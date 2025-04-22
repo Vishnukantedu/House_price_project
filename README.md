@@ -91,5 +91,4 @@ Top features influencing price:
 
 ---
 
-## 📂 File Structure
 
